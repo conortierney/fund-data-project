@@ -1,16 +1,15 @@
 # fund-data-project
-Fundamentals of Data Analysis Project 
 
-This is my project, by Conor Tierney
+## 
+Fundamentals of Data Analysis Project  - 2023
 
-This is a list.
-- One
-- Two
-- Three
+*by Conor Tierney*
 
-***
-1. one
-2. two
-3. three
-4. four
-5. five
+## Running the code 
+1. Install anaconda
+2. Install VScode
+3. clone the repositiory
+4. Run respsitory in VScode
+
+
+## Issues
