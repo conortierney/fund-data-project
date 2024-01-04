@@ -1,5 +1,12 @@
 # fund-data-project
 
+# cover infor here for tasks and project
+
+
+# All tasks for all topics should be completed in a single notebook
+called tasks.ipynb
+
+
 ## 
 Fundamentals of Data Analysis Project  - 2023
 
